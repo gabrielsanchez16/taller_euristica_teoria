@@ -3,8 +3,11 @@
 ### Inteligencia Artificial
 
 **Estudiante:** Gabriel Sánchez.
+
 **Profesor:** Wilman Quiñones.
+
 **Asignatura:** Inteligencia Artificial.
+
 **Universidad:** Universidad del Pacífico.
 
 ---
